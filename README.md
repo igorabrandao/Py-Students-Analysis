@@ -8,7 +8,7 @@ Personal data such as (registration ID, CPF, address) and names of subjects have
 The purpose of this project is explore the following:
 
 - Full content of the statistical part seen in the course; 
-- Graphs generation:
+- Graphs generation;
 - Geolocation analysis and hypotheses should be explained in detail.
 
 ### Crew ###
